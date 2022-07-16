@@ -7,3 +7,6 @@ VERSION 2 NOTES:
 -Shard return for COMMON and UNCOMMON pulls is back! You'll also get an expected shards amount.
 -The price of your pack opening is now displayed in the sim button.
 -Streamlined simulation so it can run about 10million packs every 5 seconds on a decent machine.
+
+CHAMPION EDITION:
+-accounts for different champion pack weight. Name reflected in pack results.
