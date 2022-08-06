@@ -10,3 +10,6 @@ VERSION 2 NOTES:
 
 CHAMPION EDITION:
 -accounts for different champion pack weight. Name reflected in pack results.
+
+VERSION 3 NOTES:
+-accounts for buffed pack weights as of 7.30.2022
